@@ -1,2 +1,0 @@
-# tools
-Firmware developing tools
